@@ -1,0 +1,6 @@
+{
+  "name": "BECM-24 Student Directory · RUET",
+  "description": "Student directory for Building Engineering and Construction Management (BECM '24) at Rajshahi University of Engineering & Technology (RUET) with direct Facebook profiles and emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
